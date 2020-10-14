@@ -1,0 +1,5 @@
+public class Cow extends Pet {
+    public void voice(){
+        System.out.println("Cow say mu mu");
+    }
+}
